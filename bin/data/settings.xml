@@ -1,0 +1,31 @@
+<settings>
+    <camX>-180.363433838</camX>
+    <camY>959.971313477</camY>
+    <camZ>-1129.387084961</camZ>
+    <camDrag>0.899999976</camDrag>
+    <camDistance>1493.181640625</camDistance>
+    <camQX>-0.242738336</camQX>
+    <camQY>0.001817095</camQY>
+    <camQZ>-0.004320897</camQZ>
+    <camQW>0.970080435</camQW>
+    <p1PosX>199.768798828</p1PosX>
+    <p1PosY>173.307693481</p1PosY>
+    <p2PosX>199.768798828</p2PosX>
+    <p2PosY>442.897460938</p2PosY>
+    <p3PosX>540.115600586</p3PosX>
+    <p3PosY>442.897460938</p3PosY>
+    <p4PosX>540.115600586</p4PosX>
+    <p4PosY>173.307693481</p4PosY>
+    <calibXYPosX>-34.682128906</calibXYPosX>
+    <calibXYPosY>307.692382812</calibXYPosY>
+    <calibSizePosX>4473.988281250</calibSizePosX>
+    <calibSizePosY>3230.769531250</calibSizePosY>
+    <calibZ>-2377.050048828</calibZ>
+    <angleX>-41.310001373</angleX>
+    <angleY>-35.409999847</angleY>
+    <dolly>491.799987793</dolly>
+    <frameRate>30</frameRate>
+    <angleZ>-50.159999847</angleZ>
+    <racketThreshold>799.179992676</racketThreshold>
+    <maxDetectCount>98.360000610</maxDetectCount>
+</settings>

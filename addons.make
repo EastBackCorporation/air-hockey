@@ -1,0 +1,7 @@
+ofxBox2d
+ofxCv
+ofxDatGui
+ofxModal
+ofxParagraph
+ofxSyphon
+ofxXmlSettings
